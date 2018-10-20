@@ -6,3 +6,5 @@ This is an example of a multicontainer application running InfluxDB, Grafana and
 Push the application to balena and use the public device URL to access Grafana. The default login is admin/admin.
 
 Readings are taken from the humidity, temperature and barometric pressure sensors once every 10 seconds.
+
+![](https://raw.githubusercontent.com/resin-io-playground/balena-sense/master/balena-sense-dashboard.png)
