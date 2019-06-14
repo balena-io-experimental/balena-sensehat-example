@@ -1,4 +1,4 @@
-FROM resin/raspberrypi3-debian:stretch
+FROM balenalib/%%BALENA_MACHINE_NAME%%
 
 ENV INITSYSTEM on
 
